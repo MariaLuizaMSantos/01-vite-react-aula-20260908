@@ -10,3 +10,7 @@ sudo apt install -y nodejs
 '''bash
 node -v
 '''
+
+'''bash
+npm create vite@latest
+'''
