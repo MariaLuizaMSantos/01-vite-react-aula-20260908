@@ -14,3 +14,26 @@ node -v
 '''bash
 npm create vite@latest
 '''
+
+
+
+
+
+
+
+
+
+
+'''bash
+ cd react-aula
+ '''
+
+ '''bah 
+ npm install
+ '''
+
+'''bash
+npm run dev
+'''
+
+
